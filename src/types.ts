@@ -1,0 +1,1 @@
+export type TimerDisplayMode = 'both_task_first' | 'both_session_first' | 'task_only' | 'session_only';
